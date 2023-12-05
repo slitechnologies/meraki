@@ -1,2 +1,2 @@
 # meraki
-This Repository Contains Meraki API Integration DjNGO REST API
+This Repository Contains Meraki API Integration DJANGO REST API
